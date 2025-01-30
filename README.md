@@ -25,5 +25,5 @@ If you haven't installed Ngrok yet, download it from [Ngrok Official Site](https
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/smtp-ngrok-server.git
+git clone https://github.com/ArvindeepSingh/smtp-ngrok-server.git
 cd smtp-ngrok-server
